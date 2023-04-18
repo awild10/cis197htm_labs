@@ -35,7 +35,8 @@ nav{
 
 nav ul{     
     list-style-type: none;     
-    margin: 0;     text-align: center;          
+    margin: 0;     
+    text-align: center;          
 }   
 
 nav li {     
@@ -92,8 +93,7 @@ main p{
 }   
 
 .map{     
-    border: 5px 
-    solid #373684;    
+    border: 5px solid #373684;    
 }
 
 /* Style rules for footer content */    

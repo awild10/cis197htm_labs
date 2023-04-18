@@ -31,10 +31,6 @@ nav{
     float: right;
     margin: 5em 3em 0 0;
 }
-/* Style rules for main content*/
-main{
-    clear: left;
-}
 
 nav ul{
     list-style-type: none;
@@ -56,13 +52,12 @@ nav li a{
     padding: 0.5em 1em;
     text-decoration: none;
 }
-
-
-
+/* Style rules for main content*/
 main{
     background-color: #fff;
     padding: 2%;
     font-size: 1.25em;
+    clear: left;
 }
 /*Style rules for footer*/
 footer p{
